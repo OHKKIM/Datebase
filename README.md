@@ -1,4 +1,4 @@
-A database in which users schedule and manage marine leisure sports programs.
+A database system in which users schedule and manage marine leisure sports programs.
 
 # Requirements
 1. User는 User_id, User_name, User_phone, Reservation_num에 대한 정보를 포함한다.

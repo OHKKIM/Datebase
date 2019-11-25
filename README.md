@@ -1,3 +1,5 @@
+A database in which users schedule and manage marine leisure sports programs.
+
 # ER diagram
 
 <div>

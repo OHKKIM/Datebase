@@ -5,7 +5,7 @@ A database system in which users schedule and manage marine leisure sports progr
 2. User는 본인의 이름, 폰 번호를 인증하여 회원가입한다.
 3. User는 id와 pw로 로그인을 한다.
 4. User는 Program_name을 찾아 예약할 수 있다.
-5. 한 명의 User는 여러 개의 체험 Program을 예약할 수 있다.
+5. 여러 명의 User는 여러 개의 체험 Program을 예약할 수 있다.
 6. Program은 Program_name, Day, Address, Time, Price, Information에 대한 정보를 포함한다.
 7. Program에서 체험할 수 있는 Leisure sport의 event(종목)를 볼 수 있다.
 8. Program은 여러 개의 Leisure sport를 포함하고 있다.
@@ -13,7 +13,7 @@ A database system in which users schedule and manage marine leisure sports progr
 10. Facility는 Facility_name, Address, Facility_phone에 대한 정보를 포함한다.
 11. Facility는 Facility_name으로 검색할 수 있다.
 12. Facility는 Program_name으로 찾아 관리할 수 있다.
-13. 하나의 Facility에서 여러 개의 Program을 관리한다.
+13. 여러 개의 Facility에서 여러 개의 Program을 관리한다.
 
 # ER diagram
 <div>

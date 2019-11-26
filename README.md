@@ -17,10 +17,10 @@ A database system in which users schedule and manage marine leisure sports progr
 
 # ER diagram
 <div>
-  <img src="https://user-images.githubusercontent.com/31759437/69545755-bce81b00-0fd5-11ea-9d1a-59814543cdad.png">
+  <img src="https://user-images.githubusercontent.com/31759437/69646491-43226100-10ab-11ea-940c-770fe1e0d3d8.png">
 </div>
 
 # Relation schema
 <div>
-  <img src="https://user-images.githubusercontent.com/31759437/69545870-fcaf0280-0fd5-11ea-9f35-446ff1e2c648.png">
+  <img src="https://user-images.githubusercontent.com/31759437/69646486-40c00700-10ab-11ea-9eae-e99d1e0d295a.png">
 </div>

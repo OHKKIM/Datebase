@@ -24,5 +24,5 @@ A database system in which users reserve and manage marine leisure sports progra
 
 # Relation schema
 <div>
-  <img src="https://user-images.githubusercontent.com/31759437/69753117-14cd8000-1196-11ea-8830-c493c2269fce.png">
+  <img src="https://user-images.githubusercontent.com/31759437/69761143-d93cb100-11a9-11ea-80d4-e9ad15e63ccb.png">
 </div>

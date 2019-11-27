@@ -12,16 +12,17 @@ A database system in which users reserve and manage marine leisure sports progra
 8. Program은 여러 개의 Leisure sport를 포함하고 있다.
 9. Leisure sport는 Event, Limit_number에 대한 정보를 포함한다.
 10. Facility는 Facility_name, Address, Facility_phone에 대한 정보를 포함한다.
-11. 한 개의 Facility에서 여러 개의 Program을 관리한다.
-12. Staff는 Staff_id, Staff_name, Birth에 대한 정보를 포함한다.
-13. 여러 명의 Staff는 한 개의 Facility에서 일한다.
+11. 각 Facility에서 여러 개의 Program을 관리한다.
+12. 각 Program은 여러 개의 Facility에서 관리된다.
+13. Staff는 Staff_id, Staff_name, Birth에 대한 정보를 포함한다.
+14. 여러 명의 Staff는 한 개의 Facility에서 일한다.
 
 # ER diagram
 <div>
-  <img src="https://user-images.githubusercontent.com/31759437/69722846-76242d80-115b-11ea-9467-636ecce98cbd.png">
+  <img src="https://user-images.githubusercontent.com/31759437/69753116-14cd8000-1196-11ea-92b1-529e08025e9e.png">
 </div>
 
 # Relation schema
 <div>
-  <img src="https://user-images.githubusercontent.com/31759437/69722849-77555a80-115b-11ea-82e4-d7f2a020c97e.png">
+  <img src="https://user-images.githubusercontent.com/31759437/69753117-14cd8000-1196-11ea-8830-c493c2269fce.png">
 </div>

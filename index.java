@@ -32,7 +32,7 @@ public class index
 	       
 	        switch (num) {
 	        case 1:
-	            System.out.println("레저별 프로그램 선택 : ");
+	            System.out.println("Leisure event : ");
 	            str=id_string.next();
 	            select_test(str);
 	            break;
